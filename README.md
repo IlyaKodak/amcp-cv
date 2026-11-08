@@ -1,2 +1,2 @@
 # amcp-cv
-https://github.com/IlyaKodak/amcp-cv/cv
+https://github.com/IlyaKodak/amcp-cv
