@@ -1,2 +1,2 @@
 # amcp-cv
-https://github.com/IlyaKodak/amcp-cv
+[Моё резюме](https://ilyakodak.github.io/amcp-cv/)
